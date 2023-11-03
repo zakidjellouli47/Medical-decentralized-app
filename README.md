@@ -29,3 +29,11 @@ the pharmacy and after that he can consult the list of medical supplies and buy 
 # Class diagram 
 
 ![class](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/3f63c9d5-051c-4213-88a8-09fa08a608d4)
+
+# Use case diagram 
+![user](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/d55371b9-c34f-4e8f-8a83-9524f79f81e5)
+
+
+# Architecture of the system
+![archi](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/81693937-378b-476f-98e1-f0b143ca46ec)
+
