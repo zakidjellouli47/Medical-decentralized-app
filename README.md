@@ -26,4 +26,6 @@ The patient is also required alternatively to login to be able to enter the hosp
 is verified by the database server, after the account is confirmed the patient can request medical supplies from
 the pharmacy and after that he can consult the list of medical supplies and buy the ones he needs .
 
+# Class diagram 
 
+![class](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/3f63c9d5-051c-4213-88a8-09fa08a608d4)
