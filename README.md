@@ -37,3 +37,13 @@ the pharmacy and after that he can consult the list of medical supplies and buy 
 # Architecture of the system
 ![archi](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/81693937-378b-476f-98e1-f0b143ca46ec)
 
+# Sequence diagram
+![admin_add (1)](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/a81c89c7-d527-45d9-8d26-898903b44534)
+
+# Environment setup
+First of all to create our smart contracts , we will use remix ide which is an online editor in the browser for solidity programming.
+
+![doctor](https://github.com/zakidjellouli47/Medical-decentralized-app/assets/69325676/85cc9822-c186-4726-ba48-6ae6b175dc65)
+
+
+
